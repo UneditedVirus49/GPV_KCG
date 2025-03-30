@@ -18,7 +18,7 @@
 
 .custom .dpad .face.up {
     background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonUp_1.png);
-    top: 86px;
+    top: 87px;
     left: 411px;
     width: 380px;
     height: 826px;
@@ -31,7 +31,7 @@
 
 .custom .dpad .face.right {
     background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
-    top: 361px;
+    top: 362px;
     left: 506px;
     width: 180px;
     height: 180px;
@@ -39,7 +39,7 @@
 
 .custom .dpad .face.down {
     background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
-    top: 270px;
+    top: 271px;
     left: 335px;
     width: 180px;
     height: 180px;
@@ -47,7 +47,7 @@
 
 .custom .dpad .face.left {
     background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
-    top: 270px;
+    top: 271px;
     left: 144px;
     width: 180px;
     height: 180px;
@@ -73,7 +73,7 @@
 
 .custom .abxy .button.a {
     left: 675px;
-    top: 479px;
+    top: 480px;
 }
 
 .custom .abxy .button.a.pressed {
@@ -82,7 +82,7 @@
 
 .custom .abxy .button.x {
     left: 689px;
-    top: 277px;
+    top: 278px;
 }
 
 .custom .abxy .button.x.pressed {
@@ -91,7 +91,7 @@
 
 .custom .abxy .button.b {
     left: 856px;
-    top: 402px;
+    top: 403px;
 }
 
 .custom .abxy .button.b.pressed {
@@ -100,7 +100,7 @@
 
 .custom .abxy .button.y {
     left: 866px;
-    top: 201px;
+    top: 202px;
 }
 
 .custom .abxy .button.y.pressed {
@@ -112,7 +112,7 @@
     width: 180px;
     height: 180px;
     left: 1058px;
-    top: 400px;
+    top: 401px;
     opacity: 0;
 }
 
@@ -125,7 +125,7 @@
     width: 180px;
     height: 180px;
     left: 1249px;
-    top: 428px;
+    top: 429px;
     opacity: 0;
 }
 
@@ -138,7 +138,7 @@
     width: 180px;
     height: 180px;
     left: 1060px;
-    top: 206px;
+    top: 207px;
 }
 
 .custom .bumper.right.pressed {
@@ -150,7 +150,7 @@
     width: 180px;
     height: 180px;
     left: 1255px;
-    top: 229px;
+    top: 230px;
 }
 
 .custom .bumper.left.pressed {
