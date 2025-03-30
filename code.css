@@ -1,0 +1,158 @@
+.controller.custom {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/Base_1.png);
+    width: 1563px;
+    height: 1029px;
+    /*outline: 1px solid black;*/
+}
+
+.controller.custom.disconnected {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/BaseDisconnect_1.png)
+}
+
+
+.custom .dpad .face, .custom .abxy .button, .custom .triggers .trigger-button, .custom .bumpers .bumper {
+    width: 180px;
+    height: 180px;
+    position: absolute;
+}
+
+.custom .dpad .face.up {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonUp_1.png);
+    top: 86px;
+    left: 411px;
+    width: 380px;
+    height: 826px;
+}
+
+.custom .dpad .face.up.pressed {
+    /* fuck it */
+    opacity: 0;
+}
+
+.custom .dpad .face.right {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
+    top: 361px;
+    left: 506px;
+    width: 180px;
+    height: 180px;
+}
+
+.custom .dpad .face.down {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
+    top: 270px;
+    left: 335px;
+    width: 180px;
+    height: 180px;
+}
+
+.custom .dpad .face.left {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
+    top: 270px;
+    left: 144px;
+    width: 180px;
+    height: 180px;
+}
+
+.custom .dpad .face.right.pressed {
+    opacity: 0;
+}
+
+.custom .dpad .face.down.pressed {
+    opacity: 0;
+}
+
+.custom .dpad .face.left.pressed {
+    opacity: 0;
+}
+
+.custom .abxy .button {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
+    width: 180px;
+    height: 180px;
+}
+
+.custom .abxy .button.a {
+    left: 675px;
+    top: 479px;
+}
+
+.custom .abxy .button.a.pressed {
+    opacity: 0;
+}
+
+.custom .abxy .button.x {
+    left: 689px;
+    top: 277px;
+}
+
+.custom .abxy .button.x.pressed {
+    opacity: 0;
+}
+
+.custom .abxy .button.b {
+    left: 856px;
+    top: 402px;
+}
+
+.custom .abxy .button.b.pressed {
+    opacity: 0;
+}
+
+.custom .abxy .button.y {
+    left: 866px;
+    top: 201px;
+}
+
+.custom .abxy .button.y.pressed {
+    opacity: 0;
+}
+
+.custom .trigger-button.right {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonPress_1.png);
+    width: 180px;
+    height: 180px;
+    left: 1058px;
+    top: 400px;
+    opacity: 0;
+}
+
+.custom .trigger-button.right.pressed {
+    opacity: 100;
+}
+
+.custom .trigger-button.left {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonPress_1.png);
+    width: 180px;
+    height: 180px;
+    left: 1249px;
+    top: 428px;
+    opacity: 0;
+}
+
+.custom .trigger-button.left.pressed {
+    opacity: 100;
+}
+
+.custom .bumper.right {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
+    width: 180px;
+    height: 180px;
+    left: 1060px;
+    top: 206px;
+}
+
+.custom .bumper.right.pressed {
+    opacity: 0;
+}
+
+.custom .bumper.left {
+    background: url(https://raw.githubusercontent.com/UneditedVirus49/GPVTest/refs/heads/main/ButtonNeutral_1.png);
+    width: 180px;
+    height: 180px;
+    left: 1255px;
+    top: 229px;
+}
+
+.custom .bumper.left.pressed {
+    opacity: 0;
+}
