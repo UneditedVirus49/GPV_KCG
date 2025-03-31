@@ -2,7 +2,6 @@
     background: url(https://raw.githubusercontent.com/UneditedVirus49/GPV_KCG/refs/heads/main/Base_1.png);
     width: 1563px;
     height: 1029px;
-    /*outline: 1px solid black;*/
 }
 
 .controller.custom.disconnected {
@@ -25,7 +24,6 @@
 }
 
 .custom .dpad .face.up.pressed {
-    /* fuck it */
     opacity: 0;
 }
 
@@ -156,3 +154,4 @@
 .custom .bumper.left.pressed {
     opacity: 0;
 }
+    /* hehehehe... It's me! Kaz! I'm in your code hehehe. */
